@@ -2,7 +2,7 @@
 
 A fictional playboy billionaire shows off his flying supercar. Up a quarter-pipe on suction, upside down across the lip, a 540° kickflip on cold-gas thrusters, a hover at 21 ft over a ring of its own fog, a soft landing, then 0-60 mph in 0.90 s out of frame.
 
-Video: [fill: YouTube link]
+Video: https://youtu.be/6TLT3qkiphQ
 
 ![VELOCITY // STUNT DEMO 003](submission/01_thumbnail_hover.jpg)
 

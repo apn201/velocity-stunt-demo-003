@@ -1,6 +1,6 @@
 # VELOCITY // STUNT DEMO 003 - submission texts
 
-Video: [fill: YouTube link after upload]
+Video: https://youtu.be/6TLT3qkiphQ
 Source: https://github.com/apn201/velocity-stunt-demo-003
 
 Files in this folder:
@@ -23,7 +23,7 @@ Format:   1920x1080, H.264, AAC stereo 48 kHz
 Engine:   Blender 5.2.2 LTS, EEVEE, 96 samples, motion blur, volumetrics
 Scene:    built by one Python script from an empty scene. No models, no textures, no HDRI, no sim caches, no hand keyframes
 Input:    one text prompt. No reference images, no reference video
-Video:    [fill: YouTube link]
+Video:    https://youtu.be/6TLT3qkiphQ
 Source:   https://github.com/apn201/velocity-stunt-demo-003
 
 A fictional playboy billionaire shows off his flying supercar. It drives up a
@@ -105,7 +105,7 @@ blender, python, bpy, geometry-nodes, eevee, shader-volumes, numpy, ffmpeg, clau
 
 ### "Try it out" links
 
-- [fill: YouTube link]
+- https://youtu.be/6TLT3qkiphQ
 - https://github.com/apn201/velocity-stunt-demo-003
 
 ### Image gallery (in this order)
@@ -122,7 +122,7 @@ blender, python, bpy, geometry-nodes, eevee, shader-volumes, numpy, ffmpeg, clau
 
 ### Video demo link
 
-[fill: YouTube link]
+https://youtu.be/6TLT3qkiphQ
 
 ---
 
